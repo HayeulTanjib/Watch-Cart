@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Rolex",
+        "img": "https://raw.githubusercontent.com/HayeulTanjib/watch-images/main/rolex-watch.jpg",
+        "price": "759740"
+    },
+    {
+        "id": 2,
+        "name": "Curren",
+        "img": "https://raw.githubusercontent.com/HayeulTanjib/watch-images/main/curren-watch.jpg",
+        "price": "1590"
+    },
+    {
+        "id": 3,
+        "name": "Apple Watch",
+        "img": "https://raw.githubusercontent.com/HayeulTanjib/watch-images/main/apple-watch.jpg",
+        "price": "35740"
+    }
+
+]
