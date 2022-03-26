@@ -25,12 +25,7 @@ const Shop = () => {
 
     const handleRandomBtn = (cart) => {
         //const val = Math.floor((Math.random() * cart.length) + 1);
-        
-        const newArr = [...cart, cart]
-        const numArr  = [...cart, (newArr[0].id)]
-        console.log(numArr);
 
-        //console.log(newArr[0].id);
             
  
      }

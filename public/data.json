@@ -16,6 +16,24 @@
         "name": "Apple Watch",
         "img": "https://raw.githubusercontent.com/HayeulTanjib/watch-images/main/apple-watch.jpg",
         "price": "35740"
+    },
+    {
+        "id": 4,
+        "name": "Skmei",
+        "img": "https://raw.githubusercontent.com/HayeulTanjib/watch-images/main/skmei-watch.jpg",
+        "price": "6740"
+    },
+    {
+        "id": 5,
+        "name": "Xioami",
+        "img": "https://raw.githubusercontent.com/HayeulTanjib/watch-images/main/xiaomi-smartwatch.jpg",
+        "price": "2740"
+    },
+    {
+        "id": 6,
+        "name": "Hublot",
+        "img": "https://raw.githubusercontent.com/HayeulTanjib/watch-images/main/hublot-watch.jpg",
+        "price": "735740"
     }
 
 ]
