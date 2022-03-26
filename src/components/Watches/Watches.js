@@ -1,12 +1,14 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faShoppingBag } from '@fortawesome/free-solid-svg-icons'
+import { faShoppingBag } from '@fortawesome/free-solid-svg-icons';
 import React from 'react';
+
 
 const Watches = ({watch, handleCartBtn}) => {
 
     const {name,img,price} = watch;
 
     return (
+        
         <div className='col-sm-4 col-lg-none g-4 '>
             <div style={{height: '450px'}} class="card ">
                 <img src= {img} class="img-fluid w-75 h-50 mx-auto" alt="..." />
@@ -20,9 +22,8 @@ const Watches = ({watch, handleCartBtn}) => {
             </div>
         </div>
         
-        
-    
     );
+    
 };
 
 export default Watches;
