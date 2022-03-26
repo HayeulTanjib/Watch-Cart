@@ -1,3 +1,5 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faShoppingBag } from '@fortawesome/free-solid-svg-icons'
 import React from 'react';
 
 const Watches = ({watch, handleCartBtn}) => {
@@ -13,7 +15,7 @@ const Watches = ({watch, handleCartBtn}) => {
                     <h6 class="card-text">Price : {price}$</h6>
                 </div>
                 <div class="card-footer">
-                    <button onClick={() => handleCartBtn(watch)} className='border-0 w-100'>Add to Cart</button>
+                    <button onClick={() => handleCartBtn(watch)} className='border-0 w-100 bg-warning p-2 rounded fw-bold'>Add to Cart <FontAwesomeIcon className='mx-2' icon={faShoppingBag}/> </button>
                 </div>
             </div>
         </div>
