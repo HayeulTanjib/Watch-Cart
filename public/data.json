@@ -34,6 +34,36 @@
         "name": "Hublot",
         "img": "https://raw.githubusercontent.com/HayeulTanjib/watch-images/main/hublot-watch.jpg",
         "price": "735740"
+    },
+    {
+        "id": 7,
+        "name": "TAG Heuer",
+        "img": "https://raw.githubusercontent.com/HayeulTanjib/watch-images/main/TAG-Heuer-Carrera-Calibre.jpg",
+        "price": "995740"
+    },
+    {
+        "id": 8,
+        "name": "Titan",
+        "img": "https://raw.githubusercontent.com/HayeulTanjib/watch-images/main/titan.jpg",
+        "price": "7740"
+    },
+    {
+        "id": 9,
+        "name": "Titan Black",
+        "img": "https://raw.githubusercontent.com/HayeulTanjib/watch-images/main/titan-black.jpg",
+        "price": "85740"
+    },
+    {
+        "id": 10,
+        "name": "Huawei",
+        "img": "https://raw.githubusercontent.com/HayeulTanjib/watch-images/main/Huawei-Watch-GT2.jpg",
+        "price": "33740"
+    },
+    {
+        "id": 11,
+        "name": "Casio",
+        "img": "https://raw.githubusercontent.com/HayeulTanjib/watch-images/main/Casio.jpg",
+        "price": "2240"
     }
 
 ]
