@@ -36,7 +36,7 @@ const Shop = () => {
 
 
     return (
-        <div class="row">
+        <div class="row d-flex flex-column-reverse flex-lg-row justify-content-center align-items-center align-items-lg-start">
             <div className="col-9">
                 <div className="row">
                     {
@@ -44,7 +44,7 @@ const Shop = () => {
                     }
                 </div>
             </div>
-            <div className="col-3">
+            <div className="col-sm-3 col-lg-none">
                 <Cart cart={cart} random={random} handleResetBtn={handleResetBtn} handleRandomBtn={handleRandomBtn} />
             </div>
         </div>

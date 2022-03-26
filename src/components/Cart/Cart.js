@@ -16,7 +16,7 @@ const Cart = ({ random, cart, handleResetBtn, handleRandomBtn }) => {
 
                 <h5 className='text-success py-2'>{random}</h5>
 
-                <button onClick={() => handleResetBtn(cart)} className='btn btn-danger mt-3'>Reset</button>
+                <button onClick={() => handleResetBtn(cart)} className='btn btn-danger mt-3 mb-5 mb-lg-0'>Reset</button>
             </div>
         </div>
     );

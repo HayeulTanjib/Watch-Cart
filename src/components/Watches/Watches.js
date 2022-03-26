@@ -7,7 +7,7 @@ const Watches = ({watch, handleCartBtn}) => {
     const {name,img,price} = watch;
 
     return (
-        <div className='col-4 g-4'>
+        <div className='col-sm-4 col-lg-none g-4 '>
             <div style={{height: '450px'}} class="card ">
                 <img src= {img} class="img-fluid w-75 h-50 mx-auto" alt="..." />
                 <div class="card-body">
