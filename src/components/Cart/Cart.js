@@ -3,7 +3,6 @@ import React from 'react';
 const Cart = ({ random, cart, handleResetBtn, handleRandomBtn }) => {
 
 
-
     return (
         <div>
             <h3 className='mt-4 mb-3 border'>Order Details</h3>
@@ -21,5 +20,6 @@ const Cart = ({ random, cart, handleResetBtn, handleRandomBtn }) => {
         </div>
     );
 };
+
 
 export default Cart;
